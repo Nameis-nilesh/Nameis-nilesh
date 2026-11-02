@@ -15,10 +15,6 @@
 
 *Small, useful work over vague claims.*
 
-## Stack
-
-No public language data yet — building the first project in the open.
-
 ## Signals
 
 <table>
