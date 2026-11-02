@@ -11,7 +11,7 @@
 > Data science and Data analytics aspirant
 
 - 📍 Based in **Mumbai**
-- 👥 **0** followers · **1** following
+- 👥 **1** followers · **1** following
 
 *Small, useful work over vague claims.*
 
