@@ -1,16 +1,40 @@
-## Hi there 👋
+## Profile
 
-<!--
-**Nameis-nilesh/Nameis-nilesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/hero?username=nameis-nilesh&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F319699898%3Fu%3D894779aa95fe2d016397331ad4cc19935e083d46%26v%3D4" alt="nameis-nilesh hero visual" />
+</p>
 
-Here are some ideas to get you started:
+**Nilesh Yadav** · Product-minded developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About
+
+> Data science and Data analytics aspirant
+
+- 📍 Based in **Mumbai**
+- 👥 **0** followers · **1** following
+
+*Small, useful work over vague claims.*
+
+## Stack
+
+No public language data yet — building the first project in the open.
+
+## Signals
+
+<table>
+<tr><td align="center"><b>3</b><br/><sub>repos</sub></td><td align="center"><b>0</b><br/><sub>stars</sub></td><td align="center"><b>12</b><br/><sub>contributions</sub></td></tr>
+</table>
+
+## Projects
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/projects?username=nameis-nilesh&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F319699898%3Fu%3D894779aa95fe2d016397331ad4cc19935e083d46%26v%3D4" alt="nameis-nilesh projects visual" />
+</p>
+
+## Contact
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/social?username=nameis-nilesh&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F319699898%3Fu%3D894779aa95fe2d016397331ad4cc19935e083d46%26v%3D4" alt="nameis-nilesh social visual" />
+</p>
+
+<a href="https://github.com/nameis-nilesh">GitHub</a>
