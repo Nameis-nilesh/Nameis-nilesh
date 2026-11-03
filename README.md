@@ -4,8 +4,6 @@
   <img src="https://www.gitskins.com/api/section/hero?username=nameis-nilesh&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F319699898%3Fu%3D894779aa95fe2d016397331ad4cc19935e083d46%26v%3D4" alt="nameis-nilesh hero visual" />
 </p>
 
-**Nilesh Yadav** · Product-minded developer
-
 ## About
 
 > Data science and Data analytics aspirant
